@@ -30,7 +30,7 @@ Installation
 Clone this repository or download the project files to your local machine.
 bash
 Copy code
-git clone https://github.com/yourusername/analog-clock.git
+git clone https://github.com/codesamurai8/analog-clock.git
 Make sure you have Python installed. You can download it from Python's official website.
 
 Install the Pillow library (if not already installed):
